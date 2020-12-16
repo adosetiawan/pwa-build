@@ -1,10 +1,10 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/service-worker.js',
-  '/pwa',
-  '/pwa/fallback.json',
-  '/pwa/bootstrap/css/bootstrap.css',
-  '/pwa/js/app.js'
+  '/',
+  '/fallback.json',
+  '/bootstrap/css/bootstrap.css',
+  '/js/app.js'
 ];
 
 self.addEventListener('install', function(event) {
