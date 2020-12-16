@@ -1,0 +1,503 @@
+{"product":[
+    {
+        "id": 1,
+        "nama": "Southern elephant seal",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 2,
+        "nama": "Glossy ibis",
+        "kategori": "Teal"
+    },
+    {
+        "id": 3,
+        "nama": "Potoroo",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 4,
+        "nama": "Genet, small-spotted",
+        "kategori": "Blue"
+    },
+    {
+        "id": 5,
+        "nama": "Snake, western patch-nosed",
+        "kategori": "Fuscia"
+    },
+    {
+        "id": 6,
+        "nama": "Blacksmith plover",
+        "kategori": "Green"
+    },
+    {
+        "id": 7,
+        "nama": "Cape clawless otter",
+        "kategori": "Pink"
+    },
+    {
+        "id": 8,
+        "nama": "Porcupine, indian",
+        "kategori": "Green"
+    },
+    {
+        "id": 9,
+        "nama": "Rabbit, eastern cottontail",
+        "kategori": "Orange"
+    },
+    {
+        "id": 10,
+        "nama": "River wallaby",
+        "kategori": "Crimson"
+    },
+    {
+        "id": 11,
+        "nama": "Collared peccary",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 12,
+        "nama": "Darwin ground finch (unidentified)",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 13,
+        "nama": "Reedbuck, bohor",
+        "kategori": "Red"
+    },
+    {
+        "id": 14,
+        "nama": "Phalarope, red",
+        "kategori": "Aquamarine"
+    },
+    {
+        "id": 15,
+        "nama": "Genoveva",
+        "kategori": "Crimson"
+    },
+    {
+        "id": 16,
+        "nama": "European shelduck",
+        "kategori": "Blue"
+    },
+    {
+        "id": 17,
+        "nama": "Russian dragonfly",
+        "kategori": "Red"
+    },
+    {
+        "id": 18,
+        "nama": "Hawk, ferruginous",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 19,
+        "nama": "Whale, baleen",
+        "kategori": "Orange"
+    },
+    {
+        "id": 20,
+        "nama": "Raccoon, common",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 21,
+        "nama": "Puna ibis",
+        "kategori": "Indigo"
+    },
+    {
+        "id": 22,
+        "nama": "Penguin, little blue",
+        "kategori": "Teal"
+    },
+    {
+        "id": 23,
+        "nama": "Loris, slender",
+        "kategori": "Teal"
+    },
+    {
+        "id": 24,
+        "nama": "Gila monster",
+        "kategori": "Aquamarine"
+    },
+    {
+        "id": 25,
+        "nama": "Pacific gull",
+        "kategori": "Puce"
+    },
+    {
+        "id": 26,
+        "nama": "Brown and yellow marshbird",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 27,
+        "nama": "Armadillo, common long-nosed",
+        "kategori": "Orange"
+    },
+    {
+        "id": 28,
+        "nama": "Hawk-headed parrot",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 29,
+        "nama": "Indian tree pie",
+        "kategori": "Green"
+    },
+    {
+        "id": 30,
+        "nama": "Dassie",
+        "kategori": "Blue"
+    },
+    {
+        "id": 31,
+        "nama": "Baboon, yellow",
+        "kategori": "Violet"
+    },
+    {
+        "id": 32,
+        "nama": "Indian giant squirrel",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 33,
+        "nama": "Trumpeter, dark-winged",
+        "kategori": "Maroon"
+    },
+    {
+        "id": 34,
+        "nama": "Phalarope, northern",
+        "kategori": "Green"
+    },
+    {
+        "id": 35,
+        "nama": "Dog, bush",
+        "kategori": "Pink"
+    },
+    {
+        "id": 36,
+        "nama": "Frogmouth, tawny",
+        "kategori": "Fuscia"
+    },
+    {
+        "id": 37,
+        "nama": "Cat, civet",
+        "kategori": "Goldenrod"
+    },
+    {
+        "id": 38,
+        "nama": "Burchell's gonolek",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 39,
+        "nama": "Boar, wild",
+        "kategori": "Teal"
+    },
+    {
+        "id": 40,
+        "nama": "Kangaroo, brush-tailed rat",
+        "kategori": "Red"
+    },
+    {
+        "id": 41,
+        "nama": "Fox, bat-eared",
+        "kategori": "Puce"
+    },
+    {
+        "id": 42,
+        "nama": "Tropical buckeye butterfly",
+        "kategori": "Goldenrod"
+    },
+    {
+        "id": 43,
+        "nama": "Buffalo, american",
+        "kategori": "Goldenrod"
+    },
+    {
+        "id": 44,
+        "nama": "Falcon, peregrine",
+        "kategori": "Crimson"
+    },
+    {
+        "id": 45,
+        "nama": "Dove, emerald-spotted wood",
+        "kategori": "Blue"
+    },
+    {
+        "id": 46,
+        "nama": "Paradoxure",
+        "kategori": "Orange"
+    },
+    {
+        "id": 47,
+        "nama": "Red-tailed phascogale",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 48,
+        "nama": "Caribou",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 49,
+        "nama": "Owl, madagascar hawk",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 50,
+        "nama": "Bird, black-throated butcher",
+        "kategori": "Red"
+    },
+    {
+        "id": 51,
+        "nama": "Egyptian viper",
+        "kategori": "Pink"
+    },
+    {
+        "id": 52,
+        "nama": "Snake, western patch-nosed",
+        "kategori": "Blue"
+    },
+    {
+        "id": 53,
+        "nama": "Gull, silver",
+        "kategori": "Teal"
+    },
+    {
+        "id": 54,
+        "nama": "Brown and yellow marshbird",
+        "kategori": "Orange"
+    },
+    {
+        "id": 55,
+        "nama": "African lion",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 56,
+        "nama": "Gnu, brindled",
+        "kategori": "Orange"
+    },
+    {
+        "id": 57,
+        "nama": "Asian water dragon",
+        "kategori": "Green"
+    },
+    {
+        "id": 58,
+        "nama": "Green-winged macaw",
+        "kategori": "Purple"
+    },
+    {
+        "id": 59,
+        "nama": "Galapagos tortoise",
+        "kategori": "Purple"
+    },
+    {
+        "id": 60,
+        "nama": "American alligator",
+        "kategori": "Aquamarine"
+    },
+    {
+        "id": 61,
+        "nama": "Civet (unidentified)",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 62,
+        "nama": "Whale, long-finned pilot",
+        "kategori": "Blue"
+    },
+    {
+        "id": 63,
+        "nama": "Black-necked stork",
+        "kategori": "Green"
+    },
+    {
+        "id": 64,
+        "nama": "Australian brush turkey",
+        "kategori": "Indigo"
+    },
+    {
+        "id": 65,
+        "nama": "Otter, cape clawless",
+        "kategori": "Puce"
+    },
+    {
+        "id": 66,
+        "nama": "Pied butcher bird",
+        "kategori": "Crimson"
+    },
+    {
+        "id": 67,
+        "nama": "Eurasian beaver",
+        "kategori": "Fuscia"
+    },
+    {
+        "id": 68,
+        "nama": "Osprey",
+        "kategori": "Teal"
+    },
+    {
+        "id": 69,
+        "nama": "Jaguarundi",
+        "kategori": "Purple"
+    },
+    {
+        "id": 70,
+        "nama": "Booby, masked",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 71,
+        "nama": "Malay squirrel (unidentified)",
+        "kategori": "Blue"
+    },
+    {
+        "id": 72,
+        "nama": "Seal, northern elephant",
+        "kategori": "Indigo"
+    },
+    {
+        "id": 73,
+        "nama": "Mocking cliffchat",
+        "kategori": "Maroon"
+    },
+    {
+        "id": 74,
+        "nama": "Cow, scottish highland",
+        "kategori": "Indigo"
+    },
+    {
+        "id": 75,
+        "nama": "Bird, red-billed tropic",
+        "kategori": "Fuscia"
+    },
+    {
+        "id": 76,
+        "nama": "Glider, feathertail",
+        "kategori": "Teal"
+    },
+    {
+        "id": 77,
+        "nama": "Striped skunk",
+        "kategori": "Purple"
+    },
+    {
+        "id": 78,
+        "nama": "Bustard, kori",
+        "kategori": "Crimson"
+    },
+    {
+        "id": 79,
+        "nama": "Small-clawed otter",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 80,
+        "nama": "Glider, feathertail",
+        "kategori": "Green"
+    },
+    {
+        "id": 81,
+        "nama": "Two-toed tree sloth",
+        "kategori": "Violet"
+    },
+    {
+        "id": 82,
+        "nama": "Cat, native",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 83,
+        "nama": "American crow",
+        "kategori": "Violet"
+    },
+    {
+        "id": 84,
+        "nama": "Blue-tongued skink",
+        "kategori": "Purple"
+    },
+    {
+        "id": 85,
+        "nama": "Long-nosed bandicoot",
+        "kategori": "Violet"
+    },
+    {
+        "id": 86,
+        "nama": "Nelson ground squirrel",
+        "kategori": "Maroon"
+    },
+    {
+        "id": 87,
+        "nama": "Dragonfly, russian",
+        "kategori": "Pink"
+    },
+    {
+        "id": 88,
+        "nama": "Burrowing owl",
+        "kategori": "Goldenrod"
+    },
+    {
+        "id": 89,
+        "nama": "Guanaco",
+        "kategori": "Violet"
+    },
+    {
+        "id": 90,
+        "nama": "Hoffman's sloth",
+        "kategori": "Yellow"
+    },
+    {
+        "id": 91,
+        "nama": "Gecko, tokay",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 92,
+        "nama": "Echidna, short-beaked",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 93,
+        "nama": "Blue and gold macaw",
+        "kategori": "Orange"
+    },
+    {
+        "id": 94,
+        "nama": "Goose, cape barren",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 95,
+        "nama": "Small-toothed palm civet",
+        "kategori": "Mauv"
+    },
+    {
+        "id": 96,
+        "nama": "Southern black-backed gull",
+        "kategori": "Goldenrod"
+    },
+    {
+        "id": 97,
+        "nama": "Burmese black mountain tortoise",
+        "kategori": "Turquoise"
+    },
+    {
+        "id": 98,
+        "nama": "Phalarope, northern",
+        "kategori": "Khaki"
+    },
+    {
+        "id": 99,
+        "nama": "Black and white colobus",
+        "kategori": "Red"
+    },
+    {
+        "id": 100,
+        "nama": "Yellow-rumped siskin",
+        "kategori": "Goldenrod"
+    }
+]
+}

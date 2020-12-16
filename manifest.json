@@ -1,0 +1,17 @@
+{
+  "name":"ado pwa",
+  "short_name":"ado pwa",
+  "orentation":"potrait",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/pwa",
+  "start_url": "/index.html",
+  "icons":[
+    {
+      "src":"toko-pedia.png",
+      "sizes":"72x72",
+      "type":"image/png"
+    }
+  ]
+}
