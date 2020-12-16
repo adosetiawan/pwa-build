@@ -72,7 +72,7 @@ self.addEventListener('fetch', function (event) {
         }).catch(function () {
           return caches.match(request).then(function (response) {
             if (response) return response
-            return caches.match('/pwa/fallback.json')
+            return caches.match('/fallback.json')
           })
         })
       })
